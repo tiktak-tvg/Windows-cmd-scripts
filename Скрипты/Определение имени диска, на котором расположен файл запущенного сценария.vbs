@@ -1,0 +1,1 @@
+WScript.Echo Left(WScript.ScriptFullName, 1)
